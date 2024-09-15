@@ -15,5 +15,10 @@
 ![Git](https://img.shields.io/badge/git-F3F1EA?style=for-the-badge&logo=git&logoColor=372213)
 ![Vscode](https://img.shields.io/badge/vscode-F3F1EA?style=for-the-badge&logo=vscode&logoColor=372213)
 ![MySQL](https://img.shields.io/badge/mysql-F3F1EA.svg?style=for-the-badge&logo=mysql&logoColor=372213)
-
 ![Vim](https://img.shields.io/badge/VIM-F3F1EA.svg?style=for-the-badge&logo=vim&logoColor=372213)
+
+
+## Let's Connect
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-F3F1EA?style=for-the-badge&logo=linkedin&logoColor=372213)](https://www.linkedin.com/in/vnothkumar/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-F3F1EA?style=for-the-badge&logo=gmail&logoColor=372213)](mailto:lenol.vinoth@gmail.com)
