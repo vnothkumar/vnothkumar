@@ -14,7 +14,11 @@
                 <br>
         </samp>
 
-## Languages & Technologies:
+---
+
+<div align="center">
+
+### Languages & Technologies:
 
 ![Rust](https://img.shields.io/badge/rust-F3F1EA?style=for-the-badge&logo=rust&logoColor=372213)
 ![C](https://img.shields.io/badge/c-F3F1EA?style=for-the-badge&logo=c&logoColor=372213)
@@ -25,29 +29,38 @@
 ![MySQL](https://img.shields.io/badge/mysql-F3F1EA.svg?style=for-the-badge&logo=mysql&logoColor=372213)
 ![Vim](https://img.shields.io/badge/VIM-F3F1EA.svg?style=for-the-badge&logo=vim&logoColor=372213)
 
-## Contact me
+</div>
+
+---
+
+<div align="center">
+
+### ‌GitHub Statistics:
+
+[![](https://raw.githubusercontent.com/vnothkumar/vnothkumar/main/profile-summary-card-output/graywhite/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/vnothkumar/vnothkumar/main/profile-summary-card-output/graywhite/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vnothkumar/vnothkumar/main/profile-summary-card-output/graywhite/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+</div>
+
+---
+
+<div align="center">
+
+### Get in Touch:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-F3F1EA?style=for-the-badge&logo=linkedin&logoColor=372213)](https://www.linkedin.com/in/vnothkumar/)
 [![Instagram](https://img.shields.io/badge/Instagram-F3F1EA?style=for-the-badge&logo=instagram&logoColor=372213)](https://www.instagram.com/tom_vnoth/)
 [![Gmail](https://img.shields.io/badge/Gmail-F3F1EA?style=for-the-badge&logo=gmail&logoColor=372213)](mailto:lenol.vinoth@gmail.com)
 
-<!-- Details Section -->
-<details align="center">
-    <summary> <samp>&#9776; Stats</samp></summary>
-    <p align="center">
-        <br>
-         <!-- Activity Widget -->
-        <img alt="vinothkumar GitHub Stats"
-                 src="https://github-readme-stats.vercel.app/api?username=vnothkumar&show_icons=true&locale=en" alt="vnothkumar" /></p>
-                <br>
-    </p>
-</details>
+</div>
+
+---
 
 <!-- Footer -->
 <samp>
     <p align="center">
         ════ ⋆★⋆ ════
         <br>
-        "Have a Good Day"
+       "Wishing you a productive and wonderful day!"
     </p>
 </samp>
