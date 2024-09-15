@@ -10,9 +10,6 @@
         <samp>
                 「 I'm a rust developer from <b>India</b> 」
                 <br>
-                「 Dedicated to building high-performance systems and tools that enhance efficiency and reliability.</b> 」
-                <br>
-                <br>
         </samp>
 
 ## Languages & Technologies:
