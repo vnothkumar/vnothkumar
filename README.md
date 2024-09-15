@@ -45,6 +45,6 @@
     <p align="center">
         ════ ⋆★⋆ ════
         <br>
-        "Have a good day"
+        "Have a Good Day"
     </p>
 </samp>
