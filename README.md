@@ -1,4 +1,4 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=vnothkumar&label=Profile%20views&color=0e75b6&style=flat" alt="vnothkumar" /> </p>
+<p align="right"> <img  src="https://visitcount.itsvg.in/api?id=vnothkumar&label=Profile%20Views&color=12&icon=4&pretty=false" /> </p>
 
 <!-- Title -->
 <h3 align="center">
