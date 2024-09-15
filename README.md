@@ -23,10 +23,11 @@
 ![MySQL](https://img.shields.io/badge/mysql-F3F1EA.svg?style=for-the-badge&logo=mysql&logoColor=372213)
 ![Vim](https://img.shields.io/badge/VIM-F3F1EA.svg?style=for-the-badge&logo=vim&logoColor=372213)
 
-## Where to find me
+## Contact me
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-F3F1EA?style=for-the-badge&logo=linkedin&logoColor=372213)](https://www.linkedin.com/in/vnothkumar/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-F3F1EA?style=for-the-badge&logo=gmail&logoColor=372213)](mailto:lenol.vinoth@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-F3F1EA?style=for-the-badge&logo=linkedin&logoColor=372213)](https://www.linkedin.com/in/vnothkumar/)
+[![Instagram](https://img.shields.io/badge/Instagram-F3F1EA?style=for-the-badge&logo=instagram&logoColor=372213)](https://www.instagram.com/tom_vnoth/)
+[![Gmail](https://img.shields.io/badge/Gmail-F3F1EA?style=for-the-badge&logo=gmail&logoColor=372213)](mailto:lenol.vinoth@gmail.com)
 
 <!-- Details Section -->
 <details align="center">
