@@ -38,8 +38,8 @@
         <br>
          <!-- Activity Widget -->
         <img alt="vinothkumar GitHub Stats"
-                src="https://github-readme-stats.vercel.app/api?username=vnothkumar&theme=buefy&show_icons=true&hide_border=false&count_private=true" />
-        <br>
+                 src="https://github-readme-stats.vercel.app/api?username=vnothkumar&show_icons=true&locale=en" alt="vnothkumar" /></p>
+                <br>
     </p>
 </details>
 
