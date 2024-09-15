@@ -1,11 +1,11 @@
 <p align="right"> <img  src="https://visitcount.itsvg.in/api?id=vnothkumar&label=Profile%20Views&color=12&icon=4&pretty=false" /> </p>
 
 <!-- Title -->
-<h3 align="center">
+<h1 align="center">
         <samp>&gt; Hey There!, I am
                 <b>vinothkumar</b>
         </samp>
-</h3>
+</h1>
 
 <p align="center">
         <!-- Intro -->
