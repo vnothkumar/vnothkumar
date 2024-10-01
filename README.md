@@ -14,8 +14,6 @@
                 <br>
         </samp>
 
----
-
 <div align="center">
 
 ### Languages & Technologies:
@@ -31,8 +29,6 @@
 
 </div>
 
----
-
 <div align="center">
 
 ### ‌GitHub Statistics:
@@ -42,8 +38,6 @@
 
 </div>
 
----
-
 <div align="center">
 
 ### Get in Touch:
@@ -52,8 +46,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-F3F1EA?style=for-the-badge&logo=gmail&logoColor=372213)](mailto:lenol.vinoth@gmail.com)
 
 </div>
-
----
 
 <!-- Footer -->
 <samp>
