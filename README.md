@@ -26,6 +26,8 @@
 ![Vscode](https://img.shields.io/badge/vscode-F3F1EA?style=for-the-badge&logo=vscode&logoColor=372213)
 ![MySQL](https://img.shields.io/badge/mysql-F3F1EA.svg?style=for-the-badge&logo=mysql&logoColor=372213)
 ![Vim](https://img.shields.io/badge/VIM-F3F1EA.svg?style=for-the-badge&logo=vim&logoColor=372213)
+![Mariadb](https://img.shields.io/badge/mariadb-F3F1EA.svg?style=for-the-badge&logo=mariadb&logoColor=372213)
+
 
 </div>
 
