@@ -10,7 +10,7 @@
 <p align="center">
         <!-- Intro -->
         <samp>
-                「 I'm a rust developer from <b>India</b> 」
+                「 I'm a rust developer 」
                 <br>
         </samp>
 
